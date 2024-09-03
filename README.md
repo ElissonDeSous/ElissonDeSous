@@ -1,14 +1,14 @@
 ### Ola  eu sou Elisson de Sousa 🚀
-Estou me graduando em engenharia de software, a procura de um estágio na área front end ou back end.
+Estou me graduando em engenharia de software, a procura de um estagio na area, front end ou back end.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisson-sousa-dos-sntos-6234b9209/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elissondesousa123/)
 
-![Elisson de Sous GitHub stats](https://github-readme-stats.vercel.app/api?username=ElissondeSous&show_icons=true&theme=onedark)
-
-## tecnologias do meu dia a dia 
+![Elisson de Sous GitHub stats](https://github-readme-stats.vercel.app/api?username=ElissondeSous&show_icons=true&theme=onedark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElissondeSous&)
+## tecnologias do meu dia a dia 
+
 <div style = "display:inline_block"></br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
