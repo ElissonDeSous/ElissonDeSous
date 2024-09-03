@@ -1,5 +1,5 @@
 ### Ola  eu sou Elisson de Sousa 🚀
-Estou me graduando em engenharia de software, a procura de um estagio na area front end ou back end.
+Estou me graduando em engenharia de software, a procura de um estágio na área front end ou back end.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisson-sousa-dos-sntos-6234b9209/)
