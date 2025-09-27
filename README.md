@@ -1,5 +1,5 @@
 ### Ola  eu sou Elisson de Sousa 🚀
-Estou me graduando em engenharia de software, a procura de um estagio na area, front end ou back end.
+Meu nome é Elisson Sousa dos Santos e sou desenvolvedor Full Stack com experiência em Node.js, JavaScript, HTML, CSS e React/Next. Desde que comecei minha trajetória na programação, sempre busquei transformar ideias em soluções funcionais e eficientes, com atenção à qualidade do código e à experiência do usuário.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisson-sousa-dos-sntos-6234b9209/)
